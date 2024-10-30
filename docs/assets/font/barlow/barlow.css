@@ -1,0 +1,89 @@
+/**********************************************\
+*       _____ ___ _   _____ _____ ____         *
+*      |_   _|_ _| | |_   _| ____|  _ \        *
+*        | |  | || |   | | |  _| | | | |       *
+*        | |  | || |___| | | |___| |_| |       *
+*  ____  |_| |___|_____|_| |_____|____/____    *
+* |  _ \| | | |/ _ \ / _ \| | | | ____/ ___|   *
+* | |_) | |_| | | | | | | | | | |  _| \___ \   *
+* |  __/|  _  | |_| | |_| | |_| | |___ ___) |  *
+* |_|   |_| |_|\___/ \__\_\\___/|_____|____/   *
+*                                              *
+************************************************
+*   ╔═════════════════════════════════════╗    *
+*   ║         TILTED-PHOQUES.COM          ║    *
+*   ╟─────────────────────────────────────╢    *
+*   ║     Tilted Phoques Main Website     ║    *
+*   ╚═════════════════════════════════════╝    *
+\**********************************************/
+@font-face {
+    font-display: swap;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 100;
+    src: url('barlow-v12-latin-100.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 200;
+    src: url('barlow-v12-latin-200.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 300;
+    src: url('barlow-v12-latin-300.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    src: url('barlow-v12-latin-regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 500;
+    src: url('barlow-v12-latin-500.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 600;
+    src: url('barlow-v12-latin-600.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 700;
+    src: url('barlow-v12-latin-700.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 800;
+    src: url('barlow-v12-latin-800.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 900;
+    src: url('barlow-v12-latin-900.woff2') format('woff2');
+}
